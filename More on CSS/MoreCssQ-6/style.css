@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+    text-align: center;
+    font-family: "Poppins";
+}
+.container {
+  
+}
+h1 {
+  font-size: 40px;
+}
+p {
+  text-align: start;
+  padding: 10px 15%;
+}
